@@ -1,5 +1,7 @@
 # android-simple
 
+[![Join the chat at https://gitter.im/AlexeySachkov/android-simple](https://badges.gitter.im/AlexeySachkov/android-simple.svg)](https://gitter.im/AlexeySachkov/android-simple?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Preparing for development for Android
 
 1. Download and install [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
