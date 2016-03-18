@@ -31,7 +31,7 @@
         - Also may be need to install some drivers or PC applications from your phone's vendor (HTC Sync Manger for example) for launching on device
     * If application launched and works it means that you prepared for class
 
-If you have any questions, welcome to [Giiter chat].
+If you have any questions, welcome to [Giiter chat](https://gitter.im/AlexeySachkov/android-simple).
 
 Some simple example of Android application will be here later
 
