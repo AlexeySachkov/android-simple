@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Simple</string>
+    <string name="goto_habr">Open habrahabr.ru</string>
+    <string name="launch_todolist">Launch TODO-list</string>
 </resources>
