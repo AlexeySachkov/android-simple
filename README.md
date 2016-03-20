@@ -1,5 +1,11 @@
 # android-simple
 
+### Table of contents
+
+* [Preparing for development for Android](#preparing)
+* [Usefull links](#links)
+
+<a name="#preparing" />
 ## Preparing for development for Android
 
 1. Download and install [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
@@ -31,7 +37,11 @@
         - Also may be need to install some drivers or PC applications from your phone's vendor (HTC Sync Manger for example) for launching on device
     * If application launched and works it means that you prepared for class
 
+
 If you have any questions, welcome to [Giiter chat](https://gitter.im/AlexeySachkov/android-simple).
 
 Some simple example of Android application will be here later
+
+<a name="#links" />
+## Usefull links
 
