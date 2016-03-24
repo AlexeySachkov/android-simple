@@ -25,6 +25,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void launch_todolist_handler(View view) {
-
+        Intent launch_todolist_Intent = new Intent(this, CategoriesActivity.class);
+        startActivity(launch_todolist_Intent);
     }
 }

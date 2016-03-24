@@ -18,7 +18,7 @@ public class CategoriesContentProvider extends ContentProvider {
     private static final int URI_ALL_CATEGORIES = 1;
     private static final int URI_SINGLE_CATEGORY = 2;
 
-    private static UriMatcher uriMatcher;
+    private static UriMatcher uriMatcher = new UriMatcher(-1);
     static {
         uriMatcher.addURI("alexeysachkov.androidsimple.provider", "categories", URI_ALL_CATEGORIES);
         uriMatcher.addURI("alexeysachkov.androidsimple.provider", "categories/#", URI_SINGLE_CATEGORY);

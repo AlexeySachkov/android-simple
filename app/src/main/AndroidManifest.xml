@@ -20,7 +20,17 @@
             android:name=".CategoriesContentProvider"
             android:authorities="alexeysachkov.androdsimple.provider"
             android:enabled="true"
-            android:exported="false"></provider>
+            android:exported="false" />
+
+        <activity
+            android:name=".CategoriesActivity"
+            android:label="@string/title_activity_categories"
+            android:parentActivityName=".MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="alexeysachkov.androidsimple.MainActivity" />
+        </activity>
     </application>
 
 </manifest>
