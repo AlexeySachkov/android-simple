@@ -1,5 +1,7 @@
 # android-simple
 
+[![Join the chat at https://gitter.im/AlexeySachkov/android-simple](https://badges.gitter.im/AlexeySachkov/android-simple.svg)](https://gitter.im/AlexeySachkov/android-simple?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Table of contents
 
 * [Preparing for development for Android](#preparing)
